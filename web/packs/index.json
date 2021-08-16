@@ -1,0 +1,20 @@
+{
+  "packs": [
+    "ufoludek_hate_legacy.json",
+    "stallman2.json",
+    "tear_of_joy.json",
+    "HaroldBest.json",
+    "linuxredneck.json",
+    "linuxultimate.json",
+    "WhatyouarereferringtoasLinux.json",
+    "Father_of_Linux.json",
+    "my_pack_rohit.json",
+    "gnuplusmemes.json",
+    "LinuxSucks.json",
+    "LukeSmithMeme.json",
+    "ufoludek_hate.json",
+    "DasMemeStarterPacket.json",
+    "TuxMeaLux.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
